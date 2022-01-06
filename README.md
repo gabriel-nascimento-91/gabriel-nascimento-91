@@ -1,7 +1,8 @@
-# Hi, I’m Gabriel! 
-- ⚙️ Former mechanical engineering student turned developer 💻
-- 👀 I’m currently looking for a first job or internship.
-- 🌱 At the present moment, I'm learning HTML, CSS, JavaScript, Java, C#, databases and cloud services.
+## Hi, I’m Gabriel!
+- ⚙️ Former aspiring mechanical engineering turned software developer 💻
+- 🌐 Currently working as a web development intern at APS Informática, mainly using JavaScript, React.Js, Node.Js, FirebirdDB and TypeScript.
+- 🎓 2nd semester of Software Analysis and Development at Unicesumar.
+- 📖 Also studying Android Mobile Development with Kotlin📱  
 - 📫 How to reach me -> https://www.linkedin.com/in/gnascoli/
 
 ---
