@@ -1,5 +1,5 @@
 ## Hi, I’m Gabriel!
-- ⚙️ Former aspiring mechanical engineering turned software developer 💻
+- ⚙️ Former aspiring mechanical engineer turned software developer 💻
 - 🌐 Currently working as a web development intern at APS Informática, mainly using JavaScript, React.Js, Node.Js, FirebirdDB and TypeScript.
 - 🎓 2nd semester of Software Analysis and Development at Unicesumar.
 - 📖 Also studying Android Mobile Development with Kotlin📱  
