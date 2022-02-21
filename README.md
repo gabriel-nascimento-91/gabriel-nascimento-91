@@ -3,7 +3,7 @@ About me:
 - ⚙️ Former aspiring mechanical engineer turned software developer 💻
 - 🌐 Currently working as a web development intern at APS Informática, mainly using JavaScript, TypeScript React.js, Node.js and Postgres/Firebird as DB's  .
 - 🎓 2nd semester of Software Analysis and Development at Unicesumar.
-- 📖 Also studying .NET with C# and Android Mobile Development with Kotlin📱  
+- 📖 Also studying .NET with C#.  
 - 📫 How to reach me -> https://www.linkedin.com/in/gnascoli/
 
 ---
