@@ -1,9 +1,9 @@
 ## Hi, I’m Gabriel!
 About me:
 - ⚙️ Former aspiring mechanical engineer turned software developer 💻
-- 🌐 Currently working as a web development intern at APS Informática, mainly using JavaScript, TypeScript React.js, Node.js and Postgres/Firebird as DB's  .
+- 🌐 Back-end Development Intern at Avanade
 - 🎓 2nd semester of Software Analysis and Development at Unicesumar.
-- 📖 Also studying .NET with C#.  
+- 📖 Studying JavaScript/TypeScript, React.js, MongoDB, Node.js and the .NET ecosystem with C#.  
 - 📫 How to reach me -> https://www.linkedin.com/in/gnascoli/
 
 ---
