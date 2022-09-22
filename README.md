@@ -1,9 +1,9 @@
 ## Hi, I’m Gabriel!
 About me:
 - ⚙️ Former aspiring mechanical engineer turned software developer 💻
-- 🌐 Front-end Development Intern at Avanade
-- 🎓 2nd semester of Software Analysis and Development at Unicesumar.
-- 📖 Studying JavaScript/TypeScript, React.js, MongoDB, Node.js and the .NET ecosystem with C#.  
+- 🌐 Software Engineering Intern at Avanade
+- 🎓 3rd semester of Software Analysis and Development at Unicesumar.
+- 📖 Studying JavaScript/TypeScript, React.js, MongoDB, Node.js, ASO.NET with C# and SharePoint Online / SPFx.  
 - 📫 How to reach me -> https://www.linkedin.com/in/gnascoli/
 
 ---
